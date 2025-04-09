@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "title": "Căn hộ cao cấp Vinhomes Central Park",
+      "description": "Căn hộ 3 phòng ngủ, 2 phòng tắm, nội thất cao cấp, view sông Sài Gòn tuyệt đẹp. Tòa nhà có đầy đủ tiện ích: hồ bơi, phòng gym, khu vui chơi trẻ em, siêu thị, nhà hàng.",
+      "price": 7500000000,
+      "area": 100,
+      "type": "apartment",
+      "location": "Quận Bình Thạnh, TP.HCM",
+      "image": "https://via.placeholder.com/500x300?text=Vinhomes+Central+Park",
+      "contact": "Nguyễn Văn A - 0901234567",
+      "createdBy": "admin@example.com",
+      "createdAt": "2025-03-15T09:24:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Nhà phố liền kề Gamuda Gardens",
+      "description": "Nhà phố liền kề 4 tầng, 4 phòng ngủ, 3 phòng tắm, sân vườn rộng rãi. Khu dân cư an ninh, yên tĩnh, nhiều tiện ích. Hoàn thiện nội thất cơ bản, sẵn sàng chuyển vào ở.",
+      "price": 12000000000,
+      "area": 180,
+      "type": "house",
+      "location": "Hoàng Mai, Hà Nội",
+      "image": "https://via.placeholder.com/500x300?text=Gamuda+Gardens",
+      "contact": "Trần Thị B - 0912345678",
+      "createdBy": "admin@example.com",
+      "createdAt": "2025-03-20T14:30:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Đất nền dự án Nam Hòa Xuân",
+      "description": "Lô đất nền dự án Nam Hòa Xuân, vị trí đẹp, gần sông, công viên. Pháp lý rõ ràng, sổ đỏ chính chủ. Phù hợp xây biệt thự, nhà vườn hoặc đầu tư sinh lời.",
+      "price": 4200000000,
+      "area": 200,
+      "type": "land",
+      "location": "Quận Ngũ Hành Sơn, Đà Nẵng",
+      "image": "https://via.placeholder.com/500x300?text=Nam+Hoa+Xuan",
+      "contact": "Lê Văn C - 0923456789",
+      "createdBy": "admin@example.com",
+      "createdAt": "2025-03-25T10:15:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Căn hộ The Manor Central Park",
+      "description": "Căn hộ cao cấp 2 phòng ngủ, full nội thất, view công viên xanh mát. Khu đô thị hiện đại, tiện ích đầy đủ: trường học, bệnh viện, trung tâm thương mại.",
+      "price": 5800000000,
+      "area": 85,
+      "type": "apartment",
+      "location": "Quận Hoàng Mai, Hà Nội",
+      "image": "https://via.placeholder.com/500x300?text=The+Manor+Central+Park",
+      "contact": "Phạm Thị D - 0934567890",
+      "createdBy": "admin@example.com",
+      "createdAt": "2025-03-28T16:45:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Shophouse mặt tiền Ocean City",
+      "description": "Shophouse 5 tầng, mặt tiền đường lớn, kinh doanh tốt. Thiết kế hiện đại, sang trọng. Phù hợp làm văn phòng, cửa hàng, nhà hàng hoặc khách sạn.",
+      "price": 18500000000,
+      "area": 140,
+      "type": "commercial",
+      "location": "TP. Vũng Tàu",
+      "image": "https://via.placeholder.com/500x300?text=Ocean+City+Shophouse",
+      "contact": "Hoàng Văn E - 0945678901",
+      "createdBy": "admin@example.com",
+      "createdAt": "2025-04-01T11:30:00Z"
+    }
+  ]
